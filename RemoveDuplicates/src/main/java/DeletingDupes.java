@@ -1,4 +1,4 @@
-public class Solution {
+public class DeletingDupes {
 //int[] nums = [1,1,2,3,4,5,5,6];
     // return int[] expected [1,2,3,4,5,6];
 
